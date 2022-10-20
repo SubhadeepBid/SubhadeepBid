@@ -3,9 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
-
-- 🔭 I’m currently working on **Trip Kart**
-
 - 🌱 I’m currently learning **Java Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://subhadeepbid.github.io/](https://subhadeepbid.github.io/)
