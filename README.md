@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **subhadipbid@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18x2yIwaK8b_wZJYzBPZ3mfhs79MMcaeO/view?usp=sharing](https://drive.google.com/file/d/18x2yIwaK8b_wZJYzBPZ3mfhs79MMcaeO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IdfbRsBAlCeRxA8C9fiwPXrMTglSdVGL/view?usp=sharing](https://drive.google.com/file/d/1IdfbRsBAlCeRxA8C9fiwPXrMTglSdVGL/view?usp=sharing)
 
 <br>
 <br>
