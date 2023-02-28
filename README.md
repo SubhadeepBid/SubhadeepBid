@@ -19,7 +19,7 @@
 <p align="left">
 <a style="text-decoration: none;" href="https://twitter.com/bidsubhadeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bidsubhadeep" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a style="text-decoration: none;" href="https://linkedin.com/in/subhadeepbid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhadeepbid" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a style="text-decoration: none;" href="https://www.hackerrank.com/https://www.hackerrank.com/subhadipbid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/subhadipbid" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a style="text-decoration: none;" href="https://www.hackerrank.com/subhadipbid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/subhadipbid" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a style="text-decoration: none;" href="https://www.leetcode.com/subhadipbid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhadipbid" height="40" width="40" /></a>
 </p><br>
 
